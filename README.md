@@ -53,3 +53,18 @@ This project aims to:
 ---
 
 ### 📁 Repository Structure
+
+📦 Predicting-Company-Turnover-using-HR-Data
+
+ ┣ 📄 EMPLOYEE TURNOVER USING HR DATA.pdf
+ 
+ ┣ 📓 hr_data_using_code.ipynb
+ 
+ ┣ 📄 Study_on_Predicting_Employee_Turnover_using_HR_Data.docx
+ 
+ ┣ 📜 README.md
+ 
+ ┣ 📜 LICENSE
+ 
+ ┗ 📄 .gitattributes
+
