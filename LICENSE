@@ -1,6 +1,42 @@
 MIT License
 
-Copyright (c) 2025 BANDHAKAVI SAI ASHISH
+Custom Research Protection License (CRPL-2.0)
+Copyright (c) 2025 B. Sai Ashish
+
+This project, including all its code, documentation, data, and research content,
+is the exclusive intellectual property of the author.
+
+By accessing or using this repository, you agree to the following terms:
+
+1. **No Redistribution**
+   - You may NOT copy, reproduce, or redistribute this work, in part or in full, 
+     in any form (digital, printed, or modified) without explicit written consent 
+     from the author.
+
+2. **No Commercial or Academic Misuse**
+   - You may NOT sell, publish, or use this project for commercial gain, university 
+     submissions, AI datasets, or institutional presentations without permission.
+
+3. **No AI Training or Derivatives**
+   - This work may NOT be used for training, fine-tuning, or data ingestion for 
+     AI/ML models, including but not limited to GPT, LLaMA, Claude, or similar systems.
+
+4. **Proper Attribution Required**
+   - Any allowed reference or citation must clearly mention:
+     “© 2025 B. Sai Ashish – Study on Predicting Employee Turnover Using HR Data.”
+
+5. **Enforcement**
+   - Violation of these terms may lead to copyright strikes, DMCA takedowns, 
+     blacklisting from research communities, or legal proceedings under:
+     - The Indian Copyright Act, 1957
+     - WIPO & Berne Convention for the Protection of Literary and Artistic Works
+
+⚠️ REMEMBER:
+Copying code might make you smart for a moment,
+but building your own ideas will make you legendary.
+
+For permissions, contact: **aldbandhakavi11@gmail.com**
+
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
